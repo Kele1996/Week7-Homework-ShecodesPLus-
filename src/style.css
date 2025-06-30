@@ -1,3 +1,12 @@
 background {
     background-color: white;
 }
+.weather-app {
+background: white;
+max-width: 600px;
+margin: 30px auto;
+box-shadow: 0 50px 30px rgba(65, 50, 100, 0.08);
+border-radius: 16px;
+padding: 30px; 
+
+}
